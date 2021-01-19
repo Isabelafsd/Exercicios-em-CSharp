@@ -1,0 +1,12 @@
+E:\AED\Lista Exercicios ATP\EX12\ex12\ex12\obj\Debug\ex12.csprojAssemblyReference.cache
+E:\AED\Lista Exercicios ATP\EX12\ex12\ex12\bin\Debug\ex12.exe.config
+E:\AED\Lista Exercicios ATP\EX12\ex12\ex12\bin\Debug\ex12.exe
+E:\AED\Lista Exercicios ATP\EX12\ex12\ex12\bin\Debug\ex12.pdb
+E:\AED\Lista Exercicios ATP\EX12\ex12\ex12\obj\Debug\ex12.exe
+E:\AED\Lista Exercicios ATP\EX12\ex12\ex12\obj\Debug\ex12.pdb
+E:\AED\Lista Exercicios ATP C#\EX12\ex12\ex12\bin\Debug\ex12.exe.config
+E:\AED\Lista Exercicios ATP C#\EX12\ex12\ex12\bin\Debug\ex12.exe
+E:\AED\Lista Exercicios ATP C#\EX12\ex12\ex12\bin\Debug\ex12.pdb
+E:\AED\Lista Exercicios ATP C#\EX12\ex12\ex12\obj\Debug\ex12.csprojAssemblyReference.cache
+E:\AED\Lista Exercicios ATP C#\EX12\ex12\ex12\obj\Debug\ex12.exe
+E:\AED\Lista Exercicios ATP C#\EX12\ex12\ex12\obj\Debug\ex12.pdb

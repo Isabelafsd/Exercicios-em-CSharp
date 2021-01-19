@@ -1,0 +1,5 @@
+E:\AED\Lista Exercicios ATP\EX13\ex13\ex13\bin\Debug\ex13.exe.config
+E:\AED\Lista Exercicios ATP\EX13\ex13\ex13\bin\Debug\ex13.exe
+E:\AED\Lista Exercicios ATP\EX13\ex13\ex13\bin\Debug\ex13.pdb
+E:\AED\Lista Exercicios ATP\EX13\ex13\ex13\obj\Debug\ex13.exe
+E:\AED\Lista Exercicios ATP\EX13\ex13\ex13\obj\Debug\ex13.pdb

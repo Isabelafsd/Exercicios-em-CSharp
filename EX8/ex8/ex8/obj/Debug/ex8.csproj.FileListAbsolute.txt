@@ -1,0 +1,6 @@
+E:\AED\Lista Exercicios ATP\EX8\ex8\ex8\bin\Debug\ex8.exe.config
+E:\AED\Lista Exercicios ATP\EX8\ex8\ex8\bin\Debug\ex8.exe
+E:\AED\Lista Exercicios ATP\EX8\ex8\ex8\bin\Debug\ex8.pdb
+E:\AED\Lista Exercicios ATP\EX8\ex8\ex8\obj\Debug\ex8.csprojAssemblyReference.cache
+E:\AED\Lista Exercicios ATP\EX8\ex8\ex8\obj\Debug\ex8.exe
+E:\AED\Lista Exercicios ATP\EX8\ex8\ex8\obj\Debug\ex8.pdb
