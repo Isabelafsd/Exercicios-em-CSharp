@@ -1,0 +1,13 @@
+E:\AED\Lista Exercicios ATP\EX3\EX3\EX3\obj\Debug\EX3.csproj.CoreCompileInputs.cache
+E:\AED\Lista Exercicios ATP\EX3\EX3\EX3\bin\Debug\EX3.exe.config
+E:\AED\Lista Exercicios ATP\EX3\EX3\EX3\bin\Debug\EX3.exe
+E:\AED\Lista Exercicios ATP\EX3\EX3\EX3\bin\Debug\EX3.pdb
+E:\AED\Lista Exercicios ATP\EX3\EX3\EX3\obj\Debug\EX3.csprojAssemblyReference.cache
+E:\AED\Lista Exercicios ATP\EX3\EX3\EX3\obj\Debug\EX3.exe
+E:\AED\Lista Exercicios ATP\EX3\EX3\EX3\obj\Debug\EX3.pdb
+E:\AED\Lista Exercicios ATP C#\EX3\EX3\EX3\bin\Debug\EX3.exe.config
+E:\AED\Lista Exercicios ATP C#\EX3\EX3\EX3\bin\Debug\EX3.exe
+E:\AED\Lista Exercicios ATP C#\EX3\EX3\EX3\bin\Debug\EX3.pdb
+E:\AED\Lista Exercicios ATP C#\EX3\EX3\EX3\obj\Debug\EX3.csprojAssemblyReference.cache
+E:\AED\Lista Exercicios ATP C#\EX3\EX3\EX3\obj\Debug\EX3.exe
+E:\AED\Lista Exercicios ATP C#\EX3\EX3\EX3\obj\Debug\EX3.pdb
